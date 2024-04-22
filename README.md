@@ -29,6 +29,22 @@ atau - https://discord.com/channels/1069057220802781265/1203687333107335198
 ## 7. Setelah itu akan muncul CMD yg bertuliskan HWID anda, dan secara otomatis HWID anda akan tercopy sendiri
 ![7df5d92974ce9727cfcad](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/5b112d56-e98c-49f9-868d-e7b5c0222678)
 ## 8. Kembali lagi ke Discord ```★⋅micah-bot-verify⋅★``` - https://discord.com/channels/1069057220802781265/1203687333107335198
-- setelah itu klik ```(Get verification file)```
+- lalu klik ```(Get verification file)```
 ![cc54b09f6126f621d82fa](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/f0ced2dc-3ae9-490c-b91d-b2d6c3204517)
-
+## 9. Dan akan muncul Verify Input, lalu paste HWID yg sudah otomatis tercopas tadi
+![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/dc1d1b46-9059-434a-b964-fd588ef7277c)
+- lalu submit
+## 9. Jika Submit berhasil maka bot akan mengirimkan kalian file yg berisi kunci untuk di gunakan, Lalu download filenya di sebelah kanan bawah file
+![18b7300d3a79b44d6db8c](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/d336d28e-4985-4a89-be20-9dd42e9bfa33)
+## 10. Letakkan file yg barusan kita download (enc.json) ke dalam folder korepinya
+![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/786114d7-c4eb-41dc-90ce-87acbd434ae1)
+## 11. Jalankan file krp (........ .exe)
+![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/fb357715-fc29-4385-9b46-d53de4b30359)
+- ##  Jika CMD bertuliskan "genshin path path not found. Please point to it manually."
+## Silahkan Pilih Gamenya "GI.exe"
+![99112cd689fd74e7368ba](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/98cbf591-df37-43d9-829b-ad2748b74032)
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+## Dan BRRrr, korepi siap di gunakan
+![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/6931073c-c141-4b5f-bae2-f1a576f682da)
+## Buka Menu?
+![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/a55d597e-807b-45fa-a58d-6b9c6ea30ed5)

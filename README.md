@@ -50,6 +50,9 @@ ________________________________________________________________________________
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/a55d597e-807b-45fa-a58d-6b9c6ea30ed5)
 
 Jika ada kendala error atau lainnya bisa hubungi saya 
-Discord - [Klik di sini](<https://discordapp.com/users/1027790097699045427>)
-Telegram - https://t.me/Ryuhuuz
-Facebook - https://www.facebook.com/profile.php?id=61557697891306&mibextid=ZbWKwL
+
+Discord - [Ryuhuu](<https://discordapp.com/users/1027790097699045427>)
+
+Telegram - [Ryuhuuz](<https://t.me/Ryuhuuz>)
+
+Facebook - [Ryuhuu](<https://www.facebook.com/profile.php?id=61557697891306&mibextid=ZbWKwL>)

@@ -37,11 +37,14 @@ atau - https://discord.com/channels/1069057220802781265/1203687333107335198
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/3c177878-a5ba-4293-80e8-461d17183fb9)
 ## 7. Setelah itu akan muncul CMD yg bertuliskan HWID anda, dan secara otomatis HWID anda akan tercopy sendiri
 ![7df5d92974ce9727cfcad](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/5b112d56-e98c-49f9-868d-e7b5c0222678)
-> [!NOTE]
-> jika tidak muncul HWID, dimohon hapus enc.json sebelumnya terlebih dahulu
+> [!TIP]
+>  jika tidak muncul HWID, dimohon hapus enc.json sebelumnya terlebih dahulu
 ## 8. Kembali lagi ke Discord ```★⋅micah-bot-verify⋅★``` - https://discord.com/channels/1069057220802781265/1203687333107335198
+
 - lalu klik ```(Get verification file)```
+  
 ![cc54b09f6126f621d82fa](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/f0ced2dc-3ae9-490c-b91d-b2d6c3204517)
+
 ## 9. Dan akan muncul Verify Input, lalu paste HWID yg sudah otomatis tercopas tadi
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/dc1d1b46-9059-434a-b964-fd588ef7277c)
 - lalu submit

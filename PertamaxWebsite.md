@@ -54,6 +54,4 @@ ________________________________________________________________________________
 ## Buka Menu?
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/a55d597e-807b-45fa-a58d-6b9c6ea30ed5)
 
-![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/a55d597e-807b-45fa-a58d-6b9c6ea30ed5)
-
 # Jika ada kendala error atau lainnya bisa hubungi saya 

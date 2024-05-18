@@ -36,4 +36,4 @@
 >
 > ## 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md>)
 >
-> ## 2. Menggunakan Website (Tanpa Discord)
+> ## 2. [Menggunakan Website (Tanpa Discord)](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxWebsite.md>)

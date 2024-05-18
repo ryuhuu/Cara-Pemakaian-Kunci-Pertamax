@@ -32,8 +32,8 @@
 > klik tombol tersebut, lalu masukkan kunci yg sudah saya berikan
 ------------------
 > [!TIP]
-> Dimohon mengikuti tutorial baik dan benar yg saya berikan di bawah ini
+> # Dimohon mengikuti tutorial baik dan benar yg saya berikan di bawah ini
 >
-> # 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md>)
+> ## 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md>)
 >
-> # 2. Menggunakan Website (Tanpa Discord)
+> ## 2. Menggunakan Website (Tanpa Discord)

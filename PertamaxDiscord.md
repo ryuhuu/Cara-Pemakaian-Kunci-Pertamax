@@ -56,7 +56,7 @@ atau - https://discord.com/channels/1069057220802781265/1203687333107335198
 ![18b7300d3a79b44d6db8c](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/d336d28e-4985-4a89-be20-9dd42e9bfa33)
 ## 10. Letakkan file yg barusan kita download (enc.json) ke dalam folder korepinya
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/786114d7-c4eb-41dc-90ce-87acbd434ae1)
-> [!NOTE]
+> [!WARNING]
 > Jika ada enc.json sebelumnya, mohon di ganti dengan enc.json baru
 
 ## 11. Jalankan file krp (........ .exe) terbaru

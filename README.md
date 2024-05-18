@@ -43,6 +43,6 @@
 > [!TIP]
 > # Cara Pause, Unpause, Ganti HWID, Gabungin/ Tambah masa berlaku Key, Cek Masa Berakhir PERTAMAX
 >
-> ## 1. [Menggunakan Discord Server](<[https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md)>)
+> ## 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md>)
 >
 > ## 2. [Menggunakan Website (Tanpa Discord)](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxWebsite.md>)

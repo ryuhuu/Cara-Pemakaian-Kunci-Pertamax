@@ -34,6 +34,6 @@
 > [!TIP]
 > Dimohon mengikuti tutorial baik dan benar yg saya berikan di bawah ini
 >
-> # 1. Menggunakan Discord Server
+> # 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md>)
 >
 > # 2. Menggunakan Website (Tanpa Discord)

@@ -1,9 +1,9 @@
 # Melalui Discord server
-# 🔹 Pause Key
-# 🔹 Unpause Key
-# 🔹 Ganti HWID
-# 🔹 Gabungin/ Tambah masa berlaku Key
-# 🔹 Cek Masa Berakhir PERTAMAX
+# [🔹 Pause Key](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md#-pause-key-1>)
+# [🔹 Unpause Key](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md#-unpause-key-1>)
+# [🔹 Ganti HWID](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md#-ganti-hwid-1>)
+# [🔹 Gabungin/ Tambah masa berlaku Key](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md#-gabungin-tambah-masa-berlaku-key-1>)
+# [🔹 Cek Masa Berakhir PERTAMAX](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md#-cek-masa-berakhir-pertamax-1>)
 
 ------------
 -------------

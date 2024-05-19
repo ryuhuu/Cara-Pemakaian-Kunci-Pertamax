@@ -34,6 +34,8 @@
 > ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/a7948be0-5eda-47f6-a59e-6c7563e82e55)
 >
 > klik tombol tersebut, lalu masukkan kunci yg sudah saya berikan
+> 
+> # Jika Habis/ tidak ada masa aktif pertamax sebelumnya, Silahkan ikuti tutorial di bawah ini
 ------------------
 > [!TIP]
 > # Dimohon mengikuti tutorial baik dan benar yg saya berikan di bawah ini (Pilih salah satu)

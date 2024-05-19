@@ -47,3 +47,30 @@
 > ## 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md>)
 >
 > ## 2. [Menggunakan Website (Tanpa Discord)](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxWebsite.md>)
+
+> [!NOTE]
+> # FAQ PERTAMAX KOREPI
+> Q1 = Perbedaan Free, Pertamax ?
+> 
+> A = https://korepi.com/id/start/differences.html
+>
+> -----
+> Q2 = Korepi x 3DM, cara pasang ?
+> 
+> A = https://korepi.com/id/guide/3DM-tutorial.html
+>
+> pasangnya https://korepi.com/id/guide/3DM-skin.html#cara-memasang-skin-kustom-di-gimi
+>
+> -----------
+> Q3 = Cara auto farming/ custom tp ? 
+> 
+> A = https://korepi.com/id/guide/custom-tp-setting.html
+>
+> ---------
+> Q4 = Emang bisa buka 2 genshin di 1 device/ multi korepi ???
+> 
+> A = https://korepi.com/id/guide/multi-instance.html
+>
+> ----------------------
+>
+> # Untuk pertanyaan lainnya bisa dm saya

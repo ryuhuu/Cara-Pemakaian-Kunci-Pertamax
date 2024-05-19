@@ -16,7 +16,7 @@
 > [!NOTE]
 > # CATATAN
 > 1. Setelah menggunakan pause, dapat di pause kembali setelah 30 hari
-> 2. Unpause dapat digunakan setelah 15 hari pause
+> 2. Key akan berjalan apabila sudah di kaitkan
 > 3. Anda dapt mengubah HWID/ Device dalam waktu 7 Hari
 > 4. Pembelian 1 kunci PERTAMAX hanya dapat untuk 1 Device
 > 5. Dan 1 Discord untuk 1 verif kunci tersebut
@@ -24,6 +24,7 @@
 > 7. Jangan lupa matikan antivirus/ devender sebelum menginstall
 > 8. Jika ingin menggunakan config/ settingan cheat sebelumnya, silahkan pindahkan/ amankan file config.json kalian
 > 9. Ikuti tutorial dari awal sampai akhir, agar mudah di pahami
+> 10. Jika gamenya update, korepi/ pertamax juga update (akan mendapatkan kompensasi PERTAMAX di saat korepi update)
 
 ------------
 > [!WARNING]

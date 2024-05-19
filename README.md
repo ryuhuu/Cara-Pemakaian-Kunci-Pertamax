@@ -25,6 +25,7 @@
 > 8. Jika ingin menggunakan config/ settingan cheat sebelumnya, silahkan pindahkan/ amankan file config.json kalian
 > 9. Ikuti tutorial dari awal sampai akhir, agar mudah di pahami
 > 10. Jika gamenya update, korepi/ pertamax juga update (akan mendapatkan kompensasi PERTAMAX di saat korepi update)
+> 11. Pembelian 1 minggu tidak mendapatkan kompensasi, minimal dengan pembelian 1 bulan
 
 ------------
 > [!WARNING]

@@ -26,7 +26,7 @@
 > 9. Ikuti tutorial dari awal sampai akhir, agar mudah di pahami
 > 10. Jika gamenya update, korepi/ pertamax juga update (akan mendapatkan kompensasi PERTAMAX di saat korepi update)
 > 11. Pembelian 1 minggu tidak mendapatkan kompensasi, minimal dengan pembelian 1 bulan
-> 12. Setelah Verif/ Mengikuti cara yg saya berikan, selanjutnya tinggal buka korepi (hanya 1x mengikuti tutorial, dan gunakan sampai habis)
+> 12. Tutorial/ Verif Hanya digunakan 1x saja, selanjutnya tinggal membuka korepi sampai PERTAMAX habis
 ------------
 > [!WARNING]
 > ## Jika Sebelumnya masih memiliki masa aktif pertamax, dapat di tambahkan melalui https://discord.com/channels/1069057220802781265/1203687333107335198

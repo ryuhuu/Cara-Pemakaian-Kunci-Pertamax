@@ -38,7 +38,8 @@ atau - https://discord.com/channels/1069057220802781265/1203687333107335198
 
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/da1d510d-a437-4ab5-80f4-58597de4af81)
 
-- jika bot mengirim pesan seperti gambar di atas, maka anda sudah berhasil menggunakan kuncinya
+> [!IMPORTANT]
+> jika bot mengirim pesan seperti gambar di atas, maka anda sudah berhasil menggunakan kuncinya
 ## 6. Selanjutnya, silahkan buka file korepi yg sudah di ektrak tadi
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/3c177878-a5ba-4293-80e8-461d17183fb9)
 ## 7. Setelah itu akan muncul CMD yg bertuliskan HWID anda, dan secara otomatis HWID anda akan tercopy sendiri

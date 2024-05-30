@@ -17,7 +17,9 @@
   
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/523bf702-a1b1-4bb3-b41c-6d60561aab54)
 ## 3. Extrak file tersebut, jika ingin rapi masukkan ke dalam folder 
-- dengan catatan jangan menggunakan simbol pada nama folder, karna itu tidak akan bisa terdeteksi pada langkah selanjutnya
+
+> [!CAUTION]
+>  dengan catatan jangan menggunakan simbol pada nama folder, karna itu tidak akan bisa terdeteksi pada langkah selanjutnya
 
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/2d3d1408-7be9-48eb-b2c5-170163b7280c)
 

@@ -55,7 +55,7 @@
 > 3. Cek bagian Status, Jika Normal = berhasil untuk digunakan kembali
 >   ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/32093424-4dbd-4523-9b80-62db8622e1ed)
 >
-> 4. Selanjutnya ikuti dari nomor 8 - [lanjut cara pemakaian kembali](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md#8-kembali-lagi-ke-discord-micah-bot-verify---httpsdiscordcomchannels10690572208027812651203687333107335198>)
+> 4. Selanjutnya tinggal buka korepi terbaru, atau ikuti dari nomor 8 - [lanjut cara pemakaian kembali](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxDiscord.md#8-kembali-lagi-ke-discord-micah-bot-verify---httpsdiscordcomchannels10690572208027812651203687333107335198>)
 
 ----------------
 # 🔹 Ganti HWID

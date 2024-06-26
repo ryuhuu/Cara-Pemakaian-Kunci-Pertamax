@@ -24,7 +24,7 @@
 > 7. Jangan lupa matikan antivirus/ devender sebelum menginstall
 > 8. Jika ingin menggunakan config/ settingan cheat sebelumnya, silahkan pindahkan/ amankan file config.json kalian
 > 9. Ikuti tutorial dari awal sampai akhir, agar mudah di pahami
-> 10. Jika gamenya update, korepi/ pertamax juga update (akan mendapatkan kompensasi PERTAMAX di saat korepi update)
+> 10. Jika gamenya update, korepi/ pertamax juga update (akan mendapatkan kompensasi PERTAMAX di saat korepi update(syarat ketentuan berlaku))
 > 11. Pembelian 1 minggu tidak mendapatkan kompensasi, minimal dengan pembelian 1 bulan
 > 12. Tutorial/ Verif Hanya digunakan 1x saja, selanjutnya tinggal membuka korepi sampai PERTAMAX habis
 ------------

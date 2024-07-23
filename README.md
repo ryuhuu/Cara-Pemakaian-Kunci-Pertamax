@@ -49,7 +49,7 @@
 >
 > ## 1. [Menggunakan Discord Server](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/Anuinkeydiscord.md>)
 >
-> ## 2. [Menggunakan Website (Tanpa Discord)](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/PertamaxWebsite.md>)
+> ## 2. [Menggunakan Website (Tanpa Discord)](<https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/blob/main/anuinkeyweb.md>)
 
 > [!NOTE]
 > # FAQ PERTAMAX KOREPI

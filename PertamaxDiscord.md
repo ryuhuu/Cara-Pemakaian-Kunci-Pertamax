@@ -1,7 +1,7 @@
 # Cara Pemakaian Kunci Pertamax (Discord Server)
 
 > [!CAUTION]
-> - Untuk Pengguna free yg pindah ke PERTAMAX, silahkan HAPUS file enc.json yang ada di folder korepi kalian
+> - Untuk Pengguna free/ sponsor yg pindah ke PERTAMAX, silahkan HAPUS file enc.json yang ada di folder korepi kalian
 > - Dan jangan lupa JANGAN PERNAH KLIK TOMBOL FREE jika PERTAMAX kalian masih ada
 
 > [!TIP]

@@ -2,7 +2,7 @@
 
 > [!CAUTION]
 > - Untuk Pengguna free/ sponsor yg pindah ke PERTAMAX, silahkan HAPUS file enc.json yang ada di folder korepi kalian
-> - Dan jangan lupa JANGAN PERNAH KLIK TOMBOL FREE jika PERTAMAX kalian masih ada
+> - Dan jangan lupa JANGAN PERNAH KLIK TOMBOL BIND FREE/ BIND SPONSOR jika PERTAMAX kalian masih ada
 
 > [!TIP]
 > Silahkan Join Server terlebih dahulu dan verif agar tidak terkick oleh bot - https://discord.gg/cottonbuds

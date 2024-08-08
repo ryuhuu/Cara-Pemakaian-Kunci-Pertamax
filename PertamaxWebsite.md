@@ -1,5 +1,9 @@
 # Cara Pemakaian Kunci Pertamax (Website)
 
+> [!CAUTION]
+> - Untuk Pengguna free/ sponsor yg pindah ke PERTAMAX, silahkan HAPUS file enc.json yang ada di folder korepi kalian
+> - Dan jangan lupa JANGAN PERNAH KLIK TOMBOL BIND FREE/ BIND SPONSOR jika PERTAMAX kalian masih ada
+
 ## 1. Matikan WinDev atau Anti Virus lainnya pada Windows kalian terlebih dahulu
 ![gambar](https://github.com/ryuhuu/Cara-Pemakaian-Kunci-Pertamax/assets/136698330/627185c0-00d7-443b-86ca-a5ffed4361ca)
 ## 2. Setelah itu silahkan download file korepinya - https://github.com/Cotton-Buds/calculator
